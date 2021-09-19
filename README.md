@@ -1,6 +1,6 @@
 # Wikipedia enrichment app
 
-This example app finds extracts and images from Wikipedia for records in your base and saves the
+This example app finds and extracts text and images from Wikipedia for records in your base and saves the
 information back to your base.
 
 The code shows:
